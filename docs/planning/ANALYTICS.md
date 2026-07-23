@@ -103,7 +103,7 @@ User Roles Explorer
 https://tools.shiptacenter.org/user-roles-explorer/?utm_source=shiptacenter&utm_medium=resource-library&utm_campaign=explorer-entry
 ```
 
-## STARS Login Email Assistance
+## STARS Login Assistance via Email 
 
 Troubleshooter
 ```text
