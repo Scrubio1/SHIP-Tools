@@ -79,9 +79,9 @@ https://tools.shiptacenter.org/tool-name?utm_source=whatsnew&utm_medium=onlinene
 ```
 
 ---
-## UTMs in Use
+# UTMs in Use
 
-# Resource Library UTMs
+## Resource Library UTMs
 
 Calculator
 https://tools.shiptacenter.org/pdeo-tools/?utm_source=shiptacenter&utm_medium=resource-library&utm_campaign=calc-main-entry
@@ -95,17 +95,17 @@ https://tools.shiptacenter.org/troubleshooter/?utm_source=shiptacenter&utm_mediu
 User Roles Explorer
 https://tools.shiptacenter.org/user-roles-explorer/?utm_source=shiptacenter&utm_medium=resource-library&utm_campaign=explorer-entry
 
-# STARS Login Email Assistance
+## STARS Login Email Assistance
 
 Troubleshooter
 https://tools.shiptacenter.org/troubleshooter/?utm_source=shared-inbox&utm_medium=email&utm_campaign=stars-login-help
 
-# News Brief
+## News Brief
 
 Main Index
 https://tools.shiptacenter.org/?utm_source=shiptacenter&utm_medium=news&utm_campaign=interactive-tools-launch
 
-# For MIPPA Use
+## For MIPPA Use
 
 Main Index
 https://tools.shiptacenter.org/?utm_source=mippa&utm_medium=shared-link
