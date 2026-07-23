@@ -1,12 +1,20 @@
-# Analytics Standards
+# UTMS Standards and List
 
 ## Purpose
 
-This document defines the UTM naming conventions used for SHIP Interactive Tools.
+This document defines the UTM naming conventions used for SHIP Interactive Tools and lists the ones currently in use.
 
 Consistent UTM usage allows the SHIP Technical Assistance Center to understand how users discover and access interactive tools hosted at https://tools.shiptacenter.org.
 
 ---
+
+# Naming Rules
+
+- Use lowercase values.
+- Use underscores instead of spaces.
+- Use consistent campaign names when reporting across multiple communications.
+- Avoid creating new source values unless necessary.
+- Update this document whenever a new distribution channel is introduced.
 
 # Webinar Resources
 
@@ -39,15 +47,15 @@ Used when linking from Resource Library entries.
 Parameters:
 
 ```text
-utm_source=shiphelp
+utm_source=shiptacenter
 utm_medium=resource_library
-utm_campaign=evergreen
+utm_campaign=[app name]-entry
 ```
 
 Example:
 
 ```text
-https://tools.shiptacenter.org/tool-name?utm_source=shiphelp&utm_medium=resource_library&utm_campaign=evergreen
+https://tools.shiptacenter.org/tool-name?utm_source=shiphelp&utm_medium=resource_library&utm_campaign=calc-entry
 ```
 
 ---
@@ -71,31 +79,37 @@ https://tools.shiptacenter.org/tool-name?utm_source=whatsnew&utm_medium=onlinene
 ```
 
 ---
+## UTMs in Use
 
-# Constant Contact
+# Resource Library UTMs
 
-Used when linking directly from email communications.
+Calculator
+https://tools.shiptacenter.org/pdeo-tools/?utm_source=shiptacenter&utm_medium=resource-library&utm_campaign=calc-main-entry
 
-Parameters:
+Checklist
+https://tools.shiptacenter.org/pdeo-tools/checklist/index.html?utm_source=shiptacenter&utm_medium=resource-library&utm_campaign=checklist-entry
 
-```text
-utm_source=constantcontact
-utm_medium=email
-utm_campaign=evergreen
-```
+Troubleshooter
+https://tools.shiptacenter.org/troubleshooter/?utm_source=shiptacenter&utm_medium=resource-library&utm_campaign=troubleshooter-entry
 
-Example:
+User Roles Explorer
+https://tools.shiptacenter.org/user-roles-explorer/?utm_source=shiptacenter&utm_medium=resource-library&utm_campaign=explorer-entry
 
-```text
-https://tools.shiptacenter.org/tool-name?utm_source=constantcontact&utm_medium=email&utm_campaign=evergreen
-```
+# STARS Login Email Assistance
+
+Troubleshooter
+https://tools.shiptacenter.org/troubleshooter/?utm_source=shared-inbox&utm_medium=email&utm_campaign=stars-login-help
+
+# News Brief
+
+Main Index
+https://tools.shiptacenter.org/?utm_source=shiptacenter&utm_medium=news&utm_campaign=interactive-tools-launch
+
+# For MIPPA Use
+
+Main Index
+https://tools.shiptacenter.org/?utm_source=mippa&utm_medium=shared-link
+
 
 ---
 
-# Naming Rules
-
-- Use lowercase values.
-- Use underscores instead of spaces.
-- Use consistent campaign names when reporting across multiple communications.
-- Avoid creating new source values unless necessary.
-- Update this document whenever a new distribution channel is introduced.
