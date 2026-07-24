@@ -433,7 +433,7 @@
         card.classList.add("hidden");
         return;
       }
-
+plausible("Checklist Selected", { props: { checklist: select.value } });
       title.innerHTML = `
         ${selected.title}
         <span class="block text-lg font-medium mt-1 text-gray-600">
