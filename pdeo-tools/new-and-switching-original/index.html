@@ -300,7 +300,7 @@
         validationWarning.classList.remove('hidden');
         return false;
       }
-
+plausible('New and Switching Validation Error');
       validationList.innerHTML = '';
       validationWarning.classList.add('hidden');
       return true;
@@ -310,7 +310,7 @@
       if (!validateInputs()) {
         return;
       }
-
+ plausible('New and Switching Schedule Calculation');
       const monthlyTotal = parseFloat(monthlyTotalInput.value) || 0;
       const coverageMonths = getCoverageMonths();
       const currentYearAmount = monthlyTotal * coverageMonths;
