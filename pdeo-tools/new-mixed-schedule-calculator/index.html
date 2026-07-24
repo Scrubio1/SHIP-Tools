@@ -282,6 +282,7 @@
             
             // Show or hide validation warning
             if (errors.length > 0) {
+                plausible('Mixed Schedule Validation Error');
                 validationList.innerHTML = errors.map(error => `<li>${error}</li>`).join('');
                 validationWarning.classList.remove('hidden');
                 return false;
