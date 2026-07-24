@@ -369,7 +369,7 @@
             if (!validateInputs()) {
                 return; // Stop execution if validation fails
             }
-            
+             plausible('Mixed Schedule Calculation');
             const rows = document.querySelectorAll('.medication-row');
             const breakdownList = document.getElementById('breakdownList');
             const totalCostElement = document.getElementById('totalCost');
