@@ -266,6 +266,7 @@
       }
 
       if (errors.length > 0) {
+        plausible('Consistent Non-30-Day Validation Error');
         validationList.innerHTML = errors.map(error => `<li>${error}</li>`).join('');
         validationWarning.classList.remove('hidden');
         return false;
