@@ -3,10 +3,29 @@
 
 All notable changes to SHIP Interactive Tools will be documented in this file.
 
+## [2026-07-27]
+
+### Status
+- Release day
+
+
+## [2026-07-24]
+
+### Added
+- Plausible goal/custom event for unsuccessful calcualtion in each calcucator 
+- Plausible goal/custom event for successful calculation in each calculator
+- Plausbile goal/custom event for selecting a checklist
+- Plausible goal/cusutom event for viewing each app and main index
+
+## [2026-07-23]
+
+### Added
+- Added current UTMs to analytics docs
+  
 ## [2026-06-18]
 
 ### Improved
-- - Renamed the platform from "SHIP Interactive User Tools" to "SHIP Interactive Tools" for simpler, more consistent branding across the website and project documentation.
+- Renamed the platform from "SHIP Interactive User Tools" to "SHIP Interactive Tools" for simpler, more consistent branding across the website and project documentation.
 
 ## [2026-06-17]
 
@@ -26,6 +45,7 @@ All notable changes to SHIP Interactive Tools will be documented in this file.
 
 
 ## [05-29-2026]
+
 ### Improved
 - Changed logos on pages to consistent transparent logo
 - Changed main index page font to Manrope
@@ -34,7 +54,7 @@ All notable changes to SHIP Interactive Tools will be documented in this file.
 ### Added
 - Added icon attributions
 - Added PDEO checklist to main index page
-- 
+  
 ## [05-11-2025]
 
 ### Improved
